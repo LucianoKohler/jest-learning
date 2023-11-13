@@ -1,0 +1,1 @@
+Olá prof, deixei os exercícios de testagem das quatro funcções (somar, subtrair, multiplicar e dividir) na pasta de exemplos, tanto na pasta src, quanto na pasta test, deixei assim para separar os exercícios dos exemplos feitos em sala

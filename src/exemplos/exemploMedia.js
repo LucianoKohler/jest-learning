@@ -22,12 +22,6 @@ function media(sexoArray, alturaArray){
     womenCount,
     manCount
   }
-  
-  // console.log(`Maior altura: ${maxHeight}`);
-  // console.log(`Menor altura: ${minHeight}`);
-  // console.log(`Média da altura das mulheres: ${womenHeightAvg.toFixed(2)}`)
-  // console.log(`Quantidade de homens: ${manCount}`)
-
 }
 
 module.exports = media;
