@@ -1,5 +1,5 @@
 const { describe, it, expect } = require("@jest/globals")
-const functions = require("../src/exercicio");
+const functions = require("../../src/exemplos/exemplo");
 
 describe('Testando as funções do exercicio.js', () => {
 

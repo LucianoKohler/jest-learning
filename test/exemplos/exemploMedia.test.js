@@ -1,5 +1,5 @@
 const { describe, it, expect } = require("@jest/globals");
-const media = require("../src/exercicioMedia");
+const media = require("../../src/exemplos/exemploMedia");
 
 describe("Testando a função de média de alturas", () => {
   let sexos = ["M", "F", "M", "F", "M"];
